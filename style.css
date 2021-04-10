@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: darkorange;
+}
+img{
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+}
+h2{
+    font-size: 40px;
+    color: darkturquoise;
+}
